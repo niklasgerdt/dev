@@ -42,5 +42,5 @@ cp jenkins.war apache-tomcat-8.0.20/webapps/
 
 wget http://dist.sonar.codehaus.org/sonarqube-5.0.1.zip
 unzip sonarqube-5.0.1.zip
-echo PATH=$PWD/sonaeqube-5.0.1/bin/linux-x86-64:\$PATH >> devpath
+echo PATH=$PWD/sonarqube-5.0.1/bin/linux-x86-64:\$PATH >> devpath
 
